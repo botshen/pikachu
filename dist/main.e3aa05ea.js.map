@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/main.js"],"names":["document","querySelector","onmouseover","play"],"mappings":";AAAAA,SAASC,cAAc,UAAUC,YAAc,WAC7CF,SAASC,cAAc,UAAUE","file":"main.e3aa05ea.js","sourceRoot":"../src","sourcesContent":["document.querySelector('.mouth').onmouseover = () => {\n  document.querySelector('.sound').play()\n}\n"]}
